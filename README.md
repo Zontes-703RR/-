@@ -2,4 +2,4 @@
 
 Test repo for dsh-superagent.
 
-This sentense contains a speling mistake in the last clause.
+This sentence contains a spelling mistake in the last clause.
